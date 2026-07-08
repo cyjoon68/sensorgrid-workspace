@@ -1,0 +1,8 @@
+[submodule "sensorgrid-fe"]
+	path = sensorgrid-fe
+	url = https://github.com/sensorgrid-labs/sensorgrid-fe.git
+	branch = develop
+[submodule "sensorgrid-be"]
+	path = sensorgrid-be
+	url = https://github.com/sensorgrid-labs/sensorgrid-be.git
+	branch = develop
