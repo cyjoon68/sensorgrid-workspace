@@ -1,0 +1,5 @@
+services:
+  sensorgrid-fe:
+    build: ./sensorgrid-fe
+  sensorgrid-be:
+    build: ./sensorgrid-be
